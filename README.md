@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Vivek Sharma
 
-<!--
-**vivek-sh45/vivek-sh45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity enthusiast with hands-on experience in
+network traffic analysis, vulnerability assessment,
+and digital forensics.
 
-Here are some ideas to get you started:
+Tools I work with:
+- Wireshark
+- Nmap
+- Kali Linux
+- Burp Suite
+- Tshark
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building cybersecurity labs focused on
+network monitoring and security analysis.
+
+GitHub Projects:
+- Network Traffic Analysis Lab
+- Password Security Analysis
