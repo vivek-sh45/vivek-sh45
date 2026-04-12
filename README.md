@@ -1,19 +1,35 @@
-Hi, I'm Vivek Sharma
+# Hi, I'm Vivek Sharma 👋
 
-Cybersecurity enthusiast with hands-on experience in
-network traffic analysis, vulnerability assessment,
-and digital forensics.
+Cybersecurity Enthusiast focused on Security Operations Center (SOC) analysis, threat detection, and network traffic investigation.
 
-Tools I work with:
-- Wireshark
-- Nmap
-- Kali Linux
-- Burp Suite
-- Tshark
+## Skills
 
-Currently building cybersecurity labs focused on
-network monitoring and security analysis.
+• Wireshark  
+• Splunk SIEM  
+• Nmap  
+• Kali Linux  
+• TCP/IP Networking  
+• Log Analysis  
 
-GitHub Projects:
-- Network Traffic Analysis Lab
-- Password Security Analysis
+## Cybersecurity Projects
+
+### SOC Log Analysis using Splunk
+Analyzed authentication and system logs using Splunk SIEM to detect suspicious login attempts and potential brute-force attacks.
+
+### Network Traffic Analysis using Wireshark
+Captured and analyzed network packets using Wireshark to investigate suspicious traffic patterns.
+
+## Certifications
+
+• Cisco Cyber Threat Management  
+• Cisco Endpoint Security  
+• Cisco Network Defense  
+• Cisco Networking Basics  
+
+## Connect With Me
+
+LinkedIn  
+linkedin.com/in/vivek-sharma-370741392
+
+GitHub  
+github.com/vivek-sh45
