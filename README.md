@@ -135,5 +135,5 @@ I don't just study security concepts — I simulate real attack scenarios in lab
 
 <p align="center">
   <i>Open to SOC Analyst, Cybersecurity Analyst & Threat Detection roles across India</i><br/>
-  <b>vivek50x@gmail.com &nbsp;|&nbsp; Bareilly, UP &nbsp;|&nbsp; linkedin.com/in/vivek-sharma-370741392</b>
+  <b>vivek50x@gmail.com &nbsp;|&nbsp; Bareilly, UP &nbsp;|&nbsp; linkedin.com/in/vivek-sharma-cybersec</b>
 </p>
